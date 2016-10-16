@@ -92,3 +92,8 @@ SELECT b.设备号,b.设备类型,c.保养类别,a.保养人,a.组别,a.保养�
  WHERE a.设备号=b.设备号 
  and b.设备类型=c.设备类型名 
  and a.保养记录ID=d.保养记录ID
+ 
+ 
+ 
+ axure交互系统 
+ 
