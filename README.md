@@ -1,3 +1,11 @@
+ER图
+
+
+
+
+
+
+
 # sql脚本
 create database equipment ;
 use  equipment ;
